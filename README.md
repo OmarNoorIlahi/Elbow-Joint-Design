@@ -19,7 +19,7 @@ This is Task Three in the Mechanical Engineering track, submitted to Smart Metho
 The main software used is SolidWorks to design the joint. The model looks like a U-letter. Generally, the model is 55mm in height and 63mm in width; however, there are some constant dimensions (not allowed to change). For illustration, the internal distance between the U-ends is 54mm, the thickness of each end is 4.5mm, and the vertical distance between the side hole and the base is 29mm. 
 
 ![Drawing Sheet](Elbow Joint.JPG)
-*Figure 1: Drawing Sheet*
+<p style="text-align: center;">Figure 1: Drawing Sheet</p>
 
 ---
 
@@ -41,11 +41,11 @@ The model should be similar to the figures below. Additionally, the model is ins
     <tr>
         <td>
             <img src="Isometeric View.png" alt="Isometric View" style="width: 100%; max-width: 300px;">
-            <p>Figure 2: Isometric View</p>
+            <p style="text-align: center;">Figure 2: Isometric View</p>
         </td>
         <td>
             <img src="Another View.png" alt="Another View" style="width: 100%; max-width: 300px;">
-            <p>Figure 3: Another View</p>
+            <p style="text-align: center;">Figure 3: Another View</p>
         </td>
     </tr>
 </table>
