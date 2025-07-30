@@ -1,5 +1,4 @@
 # Elbow-Joint-Design
-# README for Task Three
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -38,6 +37,17 @@ The optimized design has the following characteristics:
 
 The model should be similar to the figures below. Additionally, the model is inserted as a SolidWorks Part format file in the repository for Finite Element Analysis (FEA) tests.
 
-![Isometric View](Isometeric View.png) ![Another View](Another View.png)
+<table>
+    <tr>
+        <td>
+            <img src="Isometeric View.png" alt="Isometric View" style="width: 100%; max-width: 300px;">
+            <p>Figure 2: Isometric View</p>
+        </td>
+        <td>
+            <img src="Another View.png" alt="Another View" style="width: 100%; max-width: 300px;">
+            <p>Figure 3: Another View</p>
+        </td>
+    </tr>
+</table>
 
-*Figure 2: Isometric View and Another View*
+---
