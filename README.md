@@ -22,7 +22,7 @@ The main software used is SolidWorks to design the joint. The model looks like a
     <tr>
         <td>
             <img src="Elbow Joint.JPG" alt="Drawing Sheet" style="width: 100%; max-width: 400px;">
-            <p style="text-align: center;">Figure 1: Drawing Sheet</p>
+            <p style="text-align: center; margin: 0;">Figure 1: Drawing Sheet</p>
         </td>
     </tr>
 </table>
@@ -47,11 +47,11 @@ The model should be similar to the figures below. Additionally, the model is ins
     <tr>
         <td>
             <img src="Isometeric View.png" alt="Isometric View" style="width: 100%; max-width: 300px;">
-            <p style="text-align: center;">Figure 2: Isometric View</p>
+            <p style="text-align: center; margin: 0;">Figure 2: Isometric View</p>
         </td>
         <td>
             <img src="Another View.png" alt="Another View" style="width: 100%; max-width: 300px;">
-            <p style="text-align: center;">Figure 3: Another View</p>
+            <p style="text-align: center; margin: 0;">Figure 3: Another View</p>
         </td>
     </tr>
 </table>
