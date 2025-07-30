@@ -50,4 +50,10 @@ The model should be similar to the figures below. Additionally, the model is ins
             <p style="text-align: center;">Figure 2: Isometric View</p>
         </td>
         <td>
-            <img src="
+            <img src="Another View.png" alt="Another View" style="width: 100%; max-width: 300px;">
+            <p style="text-align: center;">Figure 3: Another View</p>
+        </td>
+    </tr>
+</table>
+
+---
